@@ -65,3 +65,10 @@ The following visuals were created in Power BI:
 
 This project was completed to improve data analysis and data modeling skills.
 
+## Görseller
+
+### Teslimat Süresi vs Müşteri Memnuniyeti
+![Delivery vs Review](images/delivery_vs_review.png)
+
+### Kategori Bazlı Gelir
+![Category Revenue](images/category_revenue.png)
